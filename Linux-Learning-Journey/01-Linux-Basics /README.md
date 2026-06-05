@@ -9,9 +9,15 @@ Learn
 Commands
 
 hostnamectl
+
 uname -a
+
 pwd
+
 whoami
+
 date
+
 cal
+
 history
